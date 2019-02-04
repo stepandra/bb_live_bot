@@ -1,0 +1,5 @@
+[bbands]
+optInTimePeriod= 20
+optInNbDevUp= 2
+optInNbDevDn= 2
+optInMAType= 1
